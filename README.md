@@ -5,3 +5,13 @@ FoodHub, an online food delivery aggregator, is looking to analyze their collect
 ## Objective:
 
 As a Data Scientist hired by FoodHub, your task is to perform data analysis on the collected order data to answer specific questions that will help the company improve its business operations and customer satisfaction.
+
+## Topics
+
+- Pandas
+- Numpy
+- Matplotlib
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Inferential Statistics
+- Correlation and Relationships
